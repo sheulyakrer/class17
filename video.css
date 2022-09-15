@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    color: white;
+    background-color: blueviolet;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: a5px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h2{
+    color: white;
+    background-color: orange;
+}
+h3{
+    color: white;
+    background-color: green;
+}
+.div1{}
+
+
+.div2{}
+a{
+    background: #000;
+    color:#fff;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding: left 20px;
+    padding-right:20px;
+    display:inline-block;
+    margin-left:20px;
+    margin-top:30px;
+    font-size: 25px;
+    text-decoration:none;
+    border: width 10px;
+    border-style:solid;
+    border-color:green;
+    border:5px solid red;
+    
+}

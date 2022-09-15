@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    color: aquamarine;
+    background: rgb(0, 0, 0);
+    font-size: 50px;
+    text-align: center;
+    text-transform: capitalize;
+    margin: auto;
+}
+img {
+    margin-top: -4px;
+    height: 500px;
+}
+.span1{
+    color: rgb(0, 255, 157);
+}
+.span2{
+    color: aqua;
+}
+.span3{
+    color: aquamarine;
+}
+h3{
+    text-align: center;
+    background-color: aqua;
+}
+.box{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    padding-top: 10px;
+}
+.div1 {
+    color: wheat;
+    background-color: #7d4b4b;
+    height: 80px;
+    width: 40%;
+    border-radius: 0px 35px 35px 0px;
+  
+}
+.div2 {
+    color: white;
+    background-color: #4f7d4b;
+    height: 80px;
+    width: 40%;
+    border-radius: 35px 0px 0px 35px;
+    margin-left: 36%;
+}
+.div3{
+    color: white;
+    background-color: #340e9d;
+    height: 80px;
+    width: 40%;
+    border-radius: 0px 35px 35px 0px;
+}
+.box{
+    width: ;
+    margin-left: ;
+}
+h4{
+    color: aliceblue;
+    text-align: center;
+}
+
+.form-div{
+    width: 35%;
+    margin: auto;
+    text-align: center;
+}
+input{
+    padding: 7px 15px;
+}
+.submit{
+    background-color: blue;
+    padding: 5px 15px;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+.footer{
+    height: 40px;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    color: #FFFF;
+    margin-top: 7px;
+}
